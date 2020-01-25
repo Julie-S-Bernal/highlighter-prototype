@@ -1,3 +1,8 @@
+## Project
+
+This is a project that allows the user to select texts and display the various formatted selection on the side. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
